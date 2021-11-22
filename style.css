@@ -1,0 +1,34 @@
+#global{
+    font-family: 'Roboto Condensed', sans-serif; 
+    font-size: 24pt; 
+    margin: 30px 40px; 
+    color: #DCDCDC; 
+}
+
+#topo{
+    font-family: 'Roboto Condensed', sans-serif; 
+    font-size: 24pt; 
+    margin: 75px 30px; 
+    color: #E40090
+}
+
+#conteúdo{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24pt;
+    margin: 200px 30px;
+    color: #98DAC6;
+}
+
+#menu{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24pt;
+    margin: 200px 30px;
+    color: #8DC9E8;
+}
+
+#rodape{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24pt;
+    margin: 80px 30px;
+    color: #FF7D00
+}
